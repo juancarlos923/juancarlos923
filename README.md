@@ -6,7 +6,7 @@ Jovem Desenvolvedor
 
 Estudante do 3° ano do curso de Técnico em Informática no IFPB
 
-* 🌍  Estou em João Pessoa - PB
+* 🌍  Sou de João Pessoa - PB
 * ✉️  Você pode entrar em contato comigo pelo [juan.carlos@academico.ifpb.edu.br](mailto:juan.carlos@academico.ifpb.edu.br)
 * 🚀  No momento estou trabalhando no [Sistema Multilojas](http://https://github.com/juancarlos923/projeto-multilojas)
 * 🧠  Eu estou aprendendo Node JS
